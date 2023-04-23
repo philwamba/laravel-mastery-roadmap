@@ -3,10 +3,10 @@ To master Laravel and its accompanied front-end technologies, you'll need to inv
 
 | Step | Topic                                          | Details |
 |------|------------------------------------------------|---------|
-| 1    | **Prerequisites**                                  |         |
-|      | 1.1. HTML & CSS                                |         |
-|      | 1.2. JavaScript (ES6+)                         |         |
-|      | 1.3. Basic understanding of PHP                |         |
+| 1    | **Prerequisites**                                  |   [x]      |
+|      | 1.1. HTML & CSS                                |     [x]    |
+|      | 1.2. JavaScript (ES6+)                         |     [x]    |
+|      | 1.3. Basic understanding of PHP                |     [x]    |
 | 2    | **Laravel Fundamentals**                           |         |
 |      | 2.1. Install PHP, Composer, and Laravel        |         |
 |      | 2.2. Laravel Documentation                     |         |
